@@ -49,7 +49,7 @@ In today's competitive financial landscape, understanding customer behavior is k
 
 1. Clone this repository.
 2. Install required dependencies: pandas, seaborn, matplotlib, numpy, scipy.
-3. Open the Jupyter Notebook and run the cells.
+3. Open the [Jupyter Notebook](https://github.com/Lacerdash/Survey-responses-EDA/blob/master/Market%20Research%20Analysis.ipynb) and run the cells.
 
 ## Why This Project Stands Out
 
