@@ -51,10 +51,6 @@ In today's competitive financial landscape, understanding customer behavior is k
 2. Install required dependencies: pandas, seaborn, matplotlib, numpy, scipy.
 3. Open the Jupyter Notebook and run the cells.
 
-### Contribution
-
-Interested in contributing or exploring further? Feel free to fork the repository or reach out to [Your Name] at [Your Email Address].
-
 ## Why This Project Stands Out
 
 - **Real-World Application**: Analysis commissioned by an entrepreneur, with tangible business implications.
