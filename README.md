@@ -11,45 +11,31 @@ In today's competitive financial landscape, understanding customer behavior is k
 3. **Visualizations**: Engaging and informative visualizations using Seaborn and Matplotlib.
 4. **Statistical Validation**: Chi-square tests to validate observations, ensuring data-driven decision-making.
 
-## Table of Contents
+## Scope of the Project
 
-1. [Data Preparation](#data-preparation)
-2. [Exploratory Analysis](#exploratory-analysis)
-3. [Segmented Insights](#segmented-insights)
-4. [Statistical Analysis](#statistical-analysis)
-5. [Findings and Business Opportunities](#findings-and-business-opportunities)
-6. [Running the Notebook](#running-the-notebook)
-7. [Contribution](#contribution)
-
-### Data Preparation
+### 1. Data Preparation
 
 - Data translation and encoding to facilitate analysis.
 
-### Exploratory Analysis
+### 2. Exploratory Analysis
 
 - Comprehensive exploration of demographic characteristics.
 - Analysis of financial maturity and planning habits.
 
-### Segmented Insights
+### 3. Segmented Insights
 
 - Gender-based, social class-based, and age group-based insights.
 - Targeted opportunities for product development.
 
-### Statistical Analysis
+### 4. Statistical Analysis
 
 - Robust statistical tests to validate findings.
 - Objective, data-backed insights for decision-making.
 
-### Findings and Business Opportunities
+### 5. Findings and Business Opportunities
 
 - Key findings that shape the financial landscape.
 - Identified market opportunities for targeted services.
-
-### Running the Notebook
-
-1. Clone this repository.
-2. Install required dependencies: pandas, seaborn, matplotlib, numpy, scipy.
-3. Open the [Jupyter Notebook](https://github.com/Lacerdash/Survey-responses-EDA/blob/master/Market%20Research%20Analysis.ipynb) and run the cells.
 
 ## Why This Project Stands Out
 
